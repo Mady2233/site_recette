@@ -1,0 +1,161 @@
+      *{
+            overflow: auto;
+            
+        }
+      body{
+        background-color: #8ba1bb;
+        font-family: Arial, Helvetica, sans-serif;
+
+        }
+        div.categorie{
+            margin-bottom: 0px;
+            margin-top: 0px;
+            overflow: visible;
+        }
+        .centre{
+            text-align: center;
+            width: 100%;
+        }
+        p.categorie{
+        background-color: black;
+        color: white;
+        display: inline-block;
+        margin-top: 3px;
+        padding: 8px 18px; 
+        margin-bottom: 0px;
+        font-size: 16px;
+        font-weight: bold;
+                
+        }
+        div.contenu{
+            background-color: white;
+            margin: -10px 80px 50px 10%;
+            padding: 0px 30px 30px 30px;
+            min-width:350px;
+            box-shadow: 0px 0px  8px 8px rgba(0, 0, 0, 0.1);
+           
+        }
+        h1{
+            text-align: center;
+            margin-bottom: 12px;
+            margin-top: 10px;
+        }
+        div.description{
+            text-align: center;
+            
+        }
+        P.description{
+            text-align: center;
+            max-width: 400px;
+           
+            display: inline-block;
+        }
+        img.infos{
+            display: block;
+            max-width: 600px;
+            object-fit: cover;
+            min-height: auto;
+            width: 100%;
+            height: 300px;
+
+            margin: auto auto;
+            background-color: #8ba1bb;
+        }
+        div.separateur{
+            background-color: black;
+            width: 100px;
+            height: 1px;
+            margin-left:auto;
+            margin-right: auto;
+        }
+        table.infos{
+            position: absolute;bottom:0 ;
+            width: 100%;
+            color: white;
+            background-color: #6C829DC0;
+        }
+        div.infos{
+            position: relative;
+             
+        }
+        table.infos td{
+            text-align: center;
+            font-size: 16px;
+            vertical-align: top;
+        }
+        table.infos th{
+            font-size: 16px;
+            vertical-align: bottom;
+            padding-bottom: 8px;
+        }
+        div.colonne1{
+            
+            display: inline-block;
+            margin-right: 10px;
+           
+            
+            
+            dispay: inline-block;
+        }
+        div.colonne{
+            
+            width: 45%;
+        }
+        div.colonne2{
+            float: right;
+            
+    
+        }
+        div.colonne h2{
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 15px;
+            margin-top: 20px;
+            border-bottom: 5px solid #0b57b3c0;
+            padding-bottom: 10px 0px 10px 0px;
+        }
+        div.ingrediens p{
+            border: 1px solid rgb(0, 0, 0);
+            padding: 10px 0px 10px 0px;
+            margin: 10px 0px 0px 0px;
+            text-align: center;
+            font-size: 14px;
+        }
+
+        table.preapration p.numero{
+            background-color: #0b57b3c0;
+            margin-top: 20px;
+            text-align: center;
+            width: 25px;
+            font-size: 14px;
+            height: 25px;
+            padding-top: 4px;
+            font-weight: bold;
+            color: white;
+            border-radius: 50%;
+            margin: Opx;
+            box-sizing: border-box;
+
+        }
+        table.preapration td{
+            vertical-align: top;
+        }
+        
+
+        table.preparation td.etape{
+            font-size: 14px;
+            padding-left: 10px;
+            padding-bottom: 10px;
+        }
+        table.preparation tr{
+        
+            height: 40px;
+        }
+        
+
+        
+            
+
+            
+        
+        
